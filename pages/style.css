@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,700');
+.jumbotron {
+    height: 100vh;
+    background-image: url('../img/jumboimage.jpg');
+    margin-bottom: -50px;
+    filter: grayscale(40%);
+
+}
+
+.navbar {
+   border-radius: 0px;
+   background-color: #FFDE00;
+   border-color: #FFDE00;
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: #272626;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #2b2929;
+    font-weight: bold;
+}
+.panel-primary>.panel-heading {
+    color: #272626;
+    background-color: #ffde00;
+    border-color: #ffde00;
+}
+
+
+
+.contactpanel {
+    opacity: 10;
+}
+
+.schoolname {
+    color: #fff;
+}
+
+.schoolname h1, p{
+font-family: 'Titillium Web', sans-serif;
+    }
